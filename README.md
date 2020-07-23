@@ -1,4 +1,4 @@
-# Data_Wrangling-_project
+# Wrangling WeRateDogs Dataset
 Wrangling data from WeRateDogs Twitter account 
 
 # My goal:
