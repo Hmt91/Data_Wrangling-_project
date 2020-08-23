@@ -1,5 +1,5 @@
 # Wrangling WeRateDogs Dataset
-Wrangling data from WeRateDogs Twitter account 
+Wrangling data from WeRateDogs Twitter account as Udacity Course project .
 
 # My goal:
 wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
